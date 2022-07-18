@@ -1,0 +1,11 @@
+{
+  "name": "awesome_src",
+  "version": "1.0.0",
+  "description": "A demonstration in awesomeness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Howell",
+  "license": "ISC"
+}
